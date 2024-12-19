@@ -9,22 +9,22 @@ Project:  ComingSoon
 
 @font-face {
   font-family: Montserrat-Regular;
-  src: url('../fonts/Montserrat/Montserrat-Regular.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
 }
 
 @font-face {
   font-family: Montserrat-Light;
-  src: url('../fonts/Montserrat/Montserrat-Light.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Light.ttf');
 }
 
 @font-face {
   font-family: Montserrat-Black;
-  src: url('../fonts/Montserrat/Montserrat-Black.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Black.ttf');
 }
 
 @font-face {
   font-family: Montserrat-Bold;
-  src: url('../fonts/Montserrat/Montserrat-Bold.ttf'); 
+  src: url('../fonts/Montserrat/Montserrat-Bold.ttf');
 }
 
 
@@ -350,7 +350,7 @@ input.input100 {
 
 /*---------------------------------------------*/
 .bg-g1 {
-  background: #55f233;
+  background: #00ff27;
   background: -webkit-linear-gradient(-45deg, #8be463, #3af23f, #93ff38);
   background: -o-linear-gradient(-45deg, #8be463, #3af23f, #93ff38);
   background: -moz-linear-gradient(-45deg, #8be463, #3af23f, #93ff38);
@@ -373,7 +373,7 @@ input.input100 {
 
 
 /*==================================================================
-   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
+   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE
 ==================================================================*/
 .where1-parent {
   position: relative;
@@ -387,7 +387,7 @@ input.input100 {
 
 
 /*==================================================================
- HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
+ HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW
 ==================================================================*/
 .placeholder0::-webkit-input-placeholder { color: #999999;}
 .placeholder0:-moz-placeholder { color: #999999;}
@@ -591,7 +591,7 @@ h3, p, span{
   .respon1 {
     padding-top: 35px;
   }
-  
+
 }
 
 
@@ -655,11 +655,11 @@ ul {
     color: #000000;
 }
 ul.social-icons {
- 
+
     margin-top: 10px;
 }
 .social-icons li {
-   
+
     vertical-align: top;
     display: inline;
     height: 100px;
@@ -788,7 +788,7 @@ ul.social-icons {
   border-radius: 5px;
     padding:10px 9px;
     -o-transition:.5s;
-    -ms-transition:.5s; 
+    -ms-transition:.5s;
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
@@ -803,7 +803,7 @@ ul.social-icons {
   border-radius: 5px;
     padding:10px 9px;
     -o-transition:.5s;
-    -ms-transition:.5s; 
+    -ms-transition:.5s;
     -moz-transition:.5s;
     -webkit-transition:.5s;
     transition: .5s;
